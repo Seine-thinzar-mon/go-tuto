@@ -1,0 +1,6 @@
+Go
+- Compiled Language: doesn't need to be interpreted one line at a time, so it's so fast
+- Statically Typed: it's a strongly typed language
+- General Purporse Language: can build web application and rest apis
+- Has built in testing support
+- Object Oriented Language
