@@ -1,0 +1,13 @@
+Variable Declaration
+
+- use "var" keyword and cannot use single qoute, use double qoute to assign string value
+    Pattern: var [varName] type = [defaultValue]
+
+    Eg: var strOne string = "Hello"
+
+- short form, cannot use outside of the function, can use only within the function scope
+    Pattern: [varName] := [defaultValue]
+
+    variable type will be automatically refered.
+    Eg: varOne := "Hey!" ==> string
+        varTwo := 100 ==> integer
