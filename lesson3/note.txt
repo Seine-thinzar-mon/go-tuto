@@ -1,4 +1,5 @@
 Variable Declaration
+https://pkg.go.dev/builtin#pkg-types
 
 - use "var" keyword and cannot use single qoute, use double qoute to assign string value
     Pattern: var [varName] type = [defaultValue]
